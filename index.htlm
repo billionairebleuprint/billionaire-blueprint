@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Billionaires Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content h1 {
+            color: #333;
+        }
+        .footer {
+            margin-top: 20px;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Billionaires Website</h1>
+    </header>
+    <div class="content">
+        <h1>Welcome to the Billionaires Hub</h1>
+        <p>Explore stories, insights, and strategies of the world's wealthiest individuals.</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2025 Billionaires Blueprint</p>
+    </div>
+</body>
+</html>
